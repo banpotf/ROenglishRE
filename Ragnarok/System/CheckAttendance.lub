@@ -1,6 +1,6 @@
 Config = {
-	StartDate = 20190101,
-	EndDate = 20191230
+	StartDate = 20200408,
+	EndDate = 20200430
 }
 
 Reward = {
